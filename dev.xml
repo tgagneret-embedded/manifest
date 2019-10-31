@@ -16,7 +16,7 @@
   <project remote="advancedtelematic" revision="rocko" name="meta-updater" path="sources/meta-updater"/>
   <project remote="witekio" revision="rocko" name="meta-machinelearning" path="sources/meta-machinelearning"/>
   <project remote="fullmetalupdate" revision="rocko" name="meta-fullmetalupdate" path="sources/meta-fullmetalupdate"/>
-  <project remote="fullmetalupdate" revision="rocko" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
+  <project remote="tgagneret-embedded" revision="rocko" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
 
   <project remote="qt" revision="rocko" name="meta-qt5" path="sources/meta-qt5"/>
 
