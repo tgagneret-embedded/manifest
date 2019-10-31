@@ -20,13 +20,6 @@
 
   <project remote="qt" revision="rocko" name="meta-qt5" path="sources/meta-qt5"/>
 
-  <project remote="freescale" revision="rocko" name="fsl-community-bsp-base" path="sources/base">
-	<linkfile dest="README" src="README"/>
-	<linkfile dest="setup-environment" src="setup-environment"/>
-  </project>
-
-  <project remote="yocto" revision="rocko" name="meta-freescale" path="sources/meta-freescale"/>
-  <project remote="freescale" revision="rocko" name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty"/>
-  <project remote="freescale" revision="rocko" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
+  <project remote="yocto" revision="rocko" name="meta-intel" path="sources/meta-intel"/>
 
 </manifest>
