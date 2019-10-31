@@ -10,6 +10,7 @@
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/advancedtelematic" name="advancedtelematic"/>
   <remote fetch="https://github.com/meta-qt5" name="qt"/>
+  <remote fetch="https://github.com/tgagneret-embedded/" name="tgagneret-embedded"/>
 
   <project remote="yocto" revision="rocko" name="poky" path="sources/poky"/>
   <project remote="oe" revision="rocko" name="meta-openembedded" path="sources/meta-openembedded"/>
