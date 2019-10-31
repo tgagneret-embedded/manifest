@@ -21,6 +21,6 @@
 
   <project remote="qt" revision="rocko" name="meta-qt5" path="sources/meta-qt5"/>
 
-  <project remote="yocto" revision="rocko" name="meta-intel" path="sources/meta-intel"/>
+  <project remote="yocto" revision="rocko" name="meta-yocto" path="sources/meta-yocto"/>
 
 </manifest>
