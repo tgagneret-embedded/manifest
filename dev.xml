@@ -15,6 +15,7 @@
   <project remote="yocto" revision="rocko" name="poky" path="sources/poky"/>
   <project remote="oe" revision="rocko" name="meta-openembedded" path="sources/meta-openembedded"/>
   <project remote="advancedtelematic" revision="rocko" name="meta-updater" path="sources/meta-updater"/>
+  <project remote="advancedtelematic" revision="rocko" name="meta-updater-qemux86-64" path="meta-updater-qemux86-64"/>
   <project remote="witekio" revision="rocko" name="meta-machinelearning" path="sources/meta-machinelearning"/>
   <project remote="fullmetalupdate" revision="rocko" name="meta-fullmetalupdate" path="sources/meta-fullmetalupdate"/>
   <project remote="tgagneret-embedded" revision="rocko" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
